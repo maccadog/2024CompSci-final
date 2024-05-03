@@ -10893,6 +10893,9 @@ li a:hover {
   background-color: white;
   border-radius: 20px;
   margin: 60px;
+  font-family: "Share Tech Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .grid-container {
@@ -10952,13 +10955,13 @@ li a:hover {
 }
 
 .h6 {
-  font-family: "Chakra Petch", sans-serif;
+  font-family: "Share Tech Mono", monospace;
   font-weight: 400;
   font-style: normal;
 }
 
 .h4 {
-  font-family: "Jersey 25", sans-serif;
+  font-family: "Share Tech Mono", monospace;
   font-weight: 400;
   font-style: normal;
 }
@@ -10969,6 +10972,9 @@ li a:hover {
 
 #esports4 {
   color: white;
+  font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 #teamicon {
