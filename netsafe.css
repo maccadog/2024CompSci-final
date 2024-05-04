@@ -55,30 +55,28 @@
 
 #body {
     background-color: #42474f;
-    color: white;
     background: url(windowsbg.png);
 }
 
 #center {
     background-color: white;
-    margin: 3%;    
-    border-radius: 20px;
+    margin-top: 3%;
     font-family: "Share Tech Mono", monospace;
     font-weight: 400;
     font-style: normal;
     font-size: 100%;
-    width: 100vw;
     color: #18223c;
+    padding: 0px;
+    border-radius: 20px;
 }
 
 #icon {
     background-color: #18223c;
-    margin-left: -0.9vw;
-    margin-right: -12px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    padding-left: 1.5vw;
     color: white;
+    padding-left: 2%;
+
 }
 
 
